@@ -13,6 +13,6 @@ public class SimpleCalculatorTest {
 		assertEquals(calc.subtract(1, 1), 0);
 		assertEquals(calc.multiply(1, 1), 1);
 		assertEquals(calc.divide(2, 1), 2);
-		assertEquals(calc.subtract(3, 5), 2);
+		assertEquals(calc.subtract(5, 3), 2);
 	}
 }
